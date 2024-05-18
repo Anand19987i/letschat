@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Anand19987i/letschat/static/css/main.6e36d50b.css",
+    "main.js": "/Anand19987i/letschat/static/js/main.7e7bd7d4.js",
+    "index.html": "/Anand19987i/letschat/index.html",
+    "main.6e36d50b.css.map": "/Anand19987i/letschat/static/css/main.6e36d50b.css.map",
+    "main.7e7bd7d4.js.map": "/Anand19987i/letschat/static/js/main.7e7bd7d4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e36d50b.css",
+    "static/js/main.7e7bd7d4.js"
+  ]
+}
